@@ -38,7 +38,7 @@ Then I didn't attach the sketch to the body at the start and then there was a de
 
 Most frustrating of all was when everything just grayed out on the toolbar for no reason and I couldn't click on anything. Great.
 
-I've still got a hollow base so tomorrow I'll try to fill that in.
+4 different versions later, I've still got a hollow base so tomorrow I'll try to fill that in.
 
 It was a very frustrating session but learning has happened, maybe, and tomorrow is hopefully better. My mind is fried as well because I've been sitting in the same position for 4 hours and it's almost 3 am. An ok shift today and here's what I've done: PCB and CAD partially. Screenshots to come.
 
