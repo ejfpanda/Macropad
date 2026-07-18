@@ -59,17 +59,21 @@ Screenshots of my CAD v1:
 
 Base:
 
-![alt text](<Screenshot 2026-07-18 001353.png>)
+<img width="977" height="623" alt="Screenshot 2026-07-18 001353" src="https://github.com/user-attachments/assets/e26a4b12-b3e8-49ce-8c49-72e387309808" />
 
 Lid:
 
-![alt text](<Screenshot 2026-07-18 001429.png>)
+<img width="1115" height="593" alt="Screenshot 2026-07-18 001429" src="https://github.com/user-attachments/assets/ad00ae04-7214-45d7-973d-9f6b127e52eb" />
 
 Then I went over to KiCAD and tried to make upgrades by adding 7 switches.
 
 I was really struggling trying to route on the PCB because it was really disorganised and I didn't really know how to structure everything. I saw online to use vias so I think I tried that.
 
-![alt text](<Screenshot 2026-07-18 001713.png>)
+Here's the schematic I got with 7 switches:
+
+<img width="519" height="270" alt="Screenshot 2026-07-18 001713" src="https://github.com/user-attachments/assets/878bf6d1-ee83-4aed-a107-0dd5312ea351" />
+
+
 
 # JULY 15th DAY 3 CUMULATIVE TIME: 8.4 HOURS
 
@@ -79,17 +83,18 @@ I also added a rotary encoder and was struggling a bit finding how to put the gl
 
 Schematic screenshot:
 
-![alt text](<Screenshot 2026-07-18 002222.png>)
+<img width="469" height="622" alt="Screenshot 2026-07-18 002222" src="https://github.com/user-attachments/assets/36e47a30-d28f-482b-b3e4-2320ffb75542" />
 
 The PCB work was the hardest part because I was struggling even more with so many diodes and finding where to place them in a good way.
 
 The final result was a bit ugly with tons of vias:
 
-![alt text](<Screenshot 2026-07-18 002309.png>)
+<img width="661" height="340" alt="Screenshot 2026-07-18 002309" src="https://github.com/user-attachments/assets/e3be5ad8-9c99-4113-a8ee-a9588372b42c" />
 
-I also added an OLED screen to the schematic:
+I also added an OLED display to the schematic:
 
-![alt text](<Screenshot 2026-07-18 002435.png>)
+<img width="413" height="249" alt="Screenshot 2026-07-18 002435" src="https://github.com/user-attachments/assets/a51af866-d1be-42b5-ac09-9a0b5ac8b08e" />
+
 
 # JULY 16th DAY 4 CUMULATIVE TIME: 15.3 HOURS
 
@@ -97,7 +102,8 @@ On day 4, I assigned footprints to everything again with the OLED now there.
 
 I also added 2 LEDs to the schematic:
 
-![alt text](<Screenshot 2026-07-18 002706.png>)
+<img width="824" height="380" alt="Screenshot 2026-07-18 002706" src="https://github.com/user-attachments/assets/0388c136-6a6f-4903-861a-dabdfad777da" />
+
 
 A lot of my time was spent rearranging the components in order to look nice when complete and also to look neat in the actual PCB design.
 
@@ -107,14 +113,15 @@ The structure that came out was quite nice I think.
 
 After routing and adding 4 mounting holes, here it is:
 
-![alt text](<Screenshot 2026-07-18 003036.png>)
+<img width="525" height="635" alt="Screenshot 2026-07-18 003036" src="https://github.com/user-attachments/assets/af5c9038-b88c-4aa5-bc32-ba1d7447972a" />
 
 (I also added silkscreen later)
 
 
 Then I added 3D models from Grabcad and in the end the 3d viewer looked something like this:
 
-![alt text](<Screenshot 2026-07-18 003307.png>)
+<img width="678" height="592" alt="Screenshot 2026-07-18 003307" src="https://github.com/user-attachments/assets/d8f75fd8-d40b-4d1c-902a-4bfa2a535e9a" />
+
 
 I spent the next almost 4 hours doing the CAD.
 
@@ -127,16 +134,17 @@ I had to remove some parts because they were covering some of the PCB.
 Here's the different parts and the final assembly:
 
 Base:
-Screenshot shortcut isn't working and onshape isn't loading for base
 
+<img width="357" height="337" alt="image" src="https://github.com/user-attachments/assets/2bfd905d-51b3-45bb-8782-fadb46a0f13b" />
 
 Lid:
 
-![alt text](image.png)
+<img width="1056" height="677" alt="image" src="https://github.com/user-attachments/assets/586f4fb4-1b81-4b89-8516-cc42ba4ceec5" />
 
-Final:
+Final assembly:
+<img width="1022" height="717" alt="image-1" src="https://github.com/user-attachments/assets/7d166f43-aacb-4a62-bb46-18b4262e8ea2" />
 
-![alt text](image-1.png)
+
 
 # JULY 17th DAY 5 CUMULATIVE TIME:21.4 HOURS
 
