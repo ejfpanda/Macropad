@@ -1,5 +1,7 @@
 # Lily-Pad
 
+## Note: I didn't understand how to use github until today so things probably aren't laid out properly.
+
 It has 6 keys -> 5 switches + 1 rotary encoder switch , a rotary encoder, an OLED display and 2 SK6812 MINI - E LEDs. It uses kmk firmware and circuit python.
 
 ## PCB:
