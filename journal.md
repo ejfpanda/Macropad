@@ -138,7 +138,7 @@ Final:
 
 ![alt text](image-1.png)
 
-# JULY 17th DAY 5 CUMULATIVE TIME:21.2 HOURS
+# JULY 17th DAY 5 CUMULATIVE TIME:21.4 HOURS
 
 Also I renamed the thing Lily-Pad because it kind of looks like one because I made it green.
 
