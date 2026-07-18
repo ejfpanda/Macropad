@@ -19,4 +19,16 @@ It has 6 keys -> 5 switches + 1 rotary encoder switch , a rotary encoder, an OLE
 
 ## Firmware:
 
-See folder - Firmware
+I used kmk firmware and circuit python.
+
+I have two layers: base layer 0 and layer 1.
+
+On base the keys are copy, paste, save, undo, mute and hold key 6 for layer 1.
+
+While key 6 is held keys are play/pause, next, previous and a macro string saying 'sent from my Lily-Pad'
+
+The encoder in layer 0 is volume up and down (clockwise and counter) and in layer 1 is brightness up and down.
+
+The OLED display shows title, current layer and also it shows last key pressed.
+
+The LEDs flash briefly when you press a key.
