@@ -29,8 +29,25 @@ On base the keys are copy, paste, save, undo, mute and hold key 6 for layer 1.
 
 While key 6 is held keys are play/pause, next, previous and a macro string saying 'sent from my Lily-Pad'
 
+
 The encoder in layer 0 is volume up and down (clockwise and counter) and in layer 1 is brightness up and down.
 
 The OLED display shows title, current layer and also it shows last key pressed.
 
 The LEDs flash briefly when you press a key.
+
+
+## Required parts:
+
+| Component | Amount |
+| :--- | :---: |
+| **Seeed XIAO RP2040** | 1x |
+| **MX-Style switches** | 5x |
+| **1N4148 Diodes** | 6x | 
+| **EC11 Rotary encoder** | 1x |
+| **0.91 inch OLED display** | 1x |
+| **DSA keycaps** | 5x |
+| **SK6812 MINI-E LED** | 2x |
+| **M3x16mm screw** | 4x |
+| **Case** (2 printed parts) | 1x |
+| **PCB** | 1x |
